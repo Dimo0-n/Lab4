@@ -1,0 +1,24 @@
+/* style.css */
+.table-view {
+    -fx-background-color: #f5e9e9;
+    -fx-table-cell-border-color: transparent;
+}
+
+.table-row-cell {
+    -fx-background-color: #f5e9e9;
+    -fx-border-color: #d3d3d3;
+    -fx-border-width: 0 0 1 0;
+}
+
+.table-row-cell:filled:selected {
+    -fx-background-color: #8eb6ec;
+}
+
+.vbox {
+    -fx-background-color: #e2a8a8;
+}
+
+.hover-row {
+    -fx-background-color: #f6e7e7; /* Alege o culoare care se potrivește cu design-ul tău */
+}
+
